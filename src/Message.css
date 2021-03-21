@@ -1,0 +1,50 @@
+.message {
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  position: relative;
+  width: fit-content;
+  margin: 15px;
+}
+
+.message__contents {
+  background-color: gray;
+  padding: 10px;
+  border-radius: 33px;
+  margin: 10px;
+  margin-right: auto;
+}
+
+.message > div > p {
+  color: white;
+}
+
+.message > div > small {
+  color: gray;
+  position: absolute;
+  font-size: x-small;
+  right: 0;
+  bottom: -5px;
+}
+
+.message__sender > div > small {
+  color: gray;
+  position: absolute;
+  font-size: x-small;
+  left: 20px;
+  bottom: -5px;
+}
+
+.message__sender {
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.message__sender > .message__contents {
+  background-color: rgb(2, 150, 199);
+}
+
+.message__sender > .message__photo {
+  order: 1;
+  margin: 15px;
+}
