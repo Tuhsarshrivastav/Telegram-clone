@@ -1,3 +1,31 @@
+## Telegram-clone 🚀 🚀 🚀
+Live Demo 👉 https://telegram-clone-4a266.web.app/
+
+![Screenshot from 2021-03-21 17-21-43](https://user-images.githubusercontent.com/74534919/111904204-a89e1c00-8a6b-11eb-90c5-6d9bf49ee82b.png)
+![Screenshot from 2021-03-21 17-25-47](https://user-images.githubusercontent.com/74534919/111904209-ab007600-8a6b-11eb-9596-e2f71aafb257.png)
+
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+    <li>Redux</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI/Icon</li>
+     <li>Real-time-chat-functionality</li>
+    <li>Google-Authentication-firebase</li>
+  </ul>
+</details>
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
